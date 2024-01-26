@@ -5,4 +5,7 @@
 ### 微信：gpt-bulid-service
 ![qrcode](qrcood.png)
 
+# 安装Node
+如何启动不成功，请安装node，版本（node>=18）
+链接：https://nodejs.org/en/download/current
 

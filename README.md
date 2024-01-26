@@ -1,4 +1,4 @@
-# 安装包
+# 下载安装包
 [安装包链接](https://github.com/baymax-collab/aitool/releases)
 # 联系方式
 ### QQ群：801460977
